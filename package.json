@@ -1,0 +1,29 @@
+{
+  "name": "geometry-dash",
+  "version": "1.0.0",
+  "description": "Geometry Dash - A rhythm-based platformer game for web and mobile.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/geometry-dash.git"
+  },
+  "keywords": [
+    "geometry",
+    "dash",
+    "platformer",
+    "game",
+    "rhythm",
+    "music",
+    "obstacle",
+    "jump"
+  ],
+  "author": "[Your Name]",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
